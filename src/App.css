@@ -2,6 +2,20 @@
   text-align: center;
 }
 
+input[type="checkbox"] { 
+  width: 1rem; 
+  height: 1rem;
+} 
+
+.height{
+  height: 100px;
+}
+
+.hnw{
+  height: 13px;
+  width: 13px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
